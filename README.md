@@ -10,12 +10,12 @@
       <td>
         <br>
 
-$\color{#cbd4cd}{\textsf{ name — NICKNAMES }}$<br>
-$\color{#cfd2d4}{\textsf{ WIP WIP }}$<br>
-$\color{#cfd2d4}{\textsf{  　　text text　  }}$<br>
-$\color{#cfd2d4}{\textsf{ info — text }}$<br>
-$\color{#cfd2d4}{\textsf{text info text }}$<br>
-$\color{##cfd2d4}{\textsf{text }}$<br>
+$\color{#cfc1ae}{\textsf{ name — NICKNAMES }}$<br>
+$\color{#cfc1ae}{\textsf{ WIP WIP }}$<br>
+$\color{#cfc1ae}{\textsf{  　　text text　  }}$<br>
+$\color{#9c3325}{\textsf{ info — text }}$<br>
+$\color{#cfc1ae}{\textsf{text info text }}$<br>
+$\color{#171717}{\textsf{text info info}}$<br>
         <br>
           <br>
       </td>
@@ -23,20 +23,15 @@ $\color{##cfd2d4}{\textsf{text }}$<br>
   </table>
   
 --------—-----—---
-<details>
 
-<summary>«────── « ⋅ʚ 💝 ɞ⋅ » ──────»
-</summary>
 
-  • ♡　listed Main acc 　 :　　　　[MAIN](https://github.com/Royal-Teeth)　 
-  　　 𝐌𝐀𝐈𝐍　　　𝐀𝐂𝐂　　 • ♡   　𝐕𝐄𝐋𝐋𝐀 𝐆𝐈𝐓𝐇𝐔𝐁𝐒 ♡　 　　　　　 
-</details>
+
 
   -------------
 <details>
 
-<summary>Hi! this is what gets displayed</summary>
+<summary>OTHER</summary>
 
-blah blah blah blah
+text text text    　　 　　　　　 text text
 
 </details>
