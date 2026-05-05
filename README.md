@@ -33,8 +33,10 @@ $\color{##cfd2d4}{\textsf{text }}$<br>
 </details>
 
   -------------
-< align="center">
-  
+<details>
 
-  
+<summary>Hi! this is what gets displayed</summary>
 
+blah blah blah blah
+
+</details>
