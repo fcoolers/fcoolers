@@ -2,7 +2,7 @@
 
   　　 　　　　　  　　 　　　　　   　　 　　　　　   　　 　　　　　   　　 　　　　　   　　 　　　　　    　　 　　　　　   　　 　　　　　 $\color{#c46039}{\textsf{cred : @zuristiie}}$
                                                                                         
-<div < align="center">
+<div < align="center">   　　 　　　　　 ╰┈➤   MAIN ACC (✿O‿o✿)　　 　　　　　 
 <br>
 <br>
   <table>
@@ -10,12 +10,12 @@
       <td>
         <br>
 
-$\color{#cfc1ae}{\textsf{ name — NICKNAMES }}$<br>
-$\color{#cfc1ae}{\textsf{ WIP WIP }}$<br>
-$\color{#cfc1ae}{\textsf{  　　text text　  }}$<br>
-$\color{#9c3325}{\textsf{ info — text }}$<br>
-$\color{#cfc1ae}{\textsf{text info text }}$<br>
-$\color{#171717}{\textsf{text info info}}$<br>
+$\color{#cfc1ae}{\textsf{ VELLA — SerVERS }}$<br>
+$\color{#cfc1ae}{\textsf{ she — they   .　　 　any　　/ all is　ok　 }}$<br>
+$\color{#cfc1ae}{\textsf{    　　 　most　at safe server. 2　　　 　　　  }}$<br>
+$\color{#9c3325}{\textsf{ minor — demi girl }}$<br>
+$\color{#cfc1ae}{\textsf{   　　︵︵︵ 　　　　　  }}$<br>
+$\color{#171717}{\textsf{taking inspo is ok but ask perm — copying? no. }}$<br>
         <br>
           <br>
       </td>
@@ -32,6 +32,6 @@ $\color{#171717}{\textsf{text info info}}$<br>
 
 <summary>OTHER</summary>
 
-text text text    　　 　　　　　 text text
+mostly alone — with comfs 　　 　　　　　 casually ALWAYS as afk . offtab   　　 　　　　　   　　 　　　　　  
 
 </details>
