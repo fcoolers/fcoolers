@@ -11,14 +11,14 @@
       <td>
         <br>
 
-$\color{#cfc1ae}{\textsf{ info  　　　TEXT　　TXT 　  　　 }}$<br>
-$\color{#cfc1ae}{\textsf{ info　 }}$<br>
-$\color{#538ab8}{\textsf{    　　 　text info　　　 　　　  }}$<br>
-$\color{#538ab8}{\textsf{  　　　　 text }}$
-$\color{#cfc1ae}{\textsf{ info　 }}$<br>
+$\color{#cfc1ae}{\textsf{   　vellas　　　Jazy　  　　 }}$<br>
+$\color{#cfc1ae}{\textsf{ she/they }}$<br>
+$\color{#538ab8}{\textsf{    　　 　c+h — enc 　/ int plz　　 　　　  }}$<br>
+$\color{#538ab8}{\textsf{  　　　　 online secretly }}$
+$\color{#cfc1ae}{\textsf{ hai : )  }}$<br>
 <br>
 <br>
-$\color{#cfc1ae}{\textsf{ info　 }}$<br>
+$\color{#cfc1ae}{\textsf{ follow main　 }}$<br>
 　　　 <br>
           <br>
       </td>
