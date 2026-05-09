@@ -35,6 +35,6 @@ $\color{#cfc1ae}{\textsf{ follow main　 }}$<br>
 
 <summary>OTHER</summary>
 
-mostly alone — with comfs 　　 　　　　　 casually ALWAYS as afk . offtab   　　 　　　　　   　　 　　　　　  
+I am not  finishing this one　　 　　　　　   　　 　　　　　  
 
 </details>
