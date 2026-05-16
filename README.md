@@ -2,8 +2,8 @@
 
 <img width="1024" height="427" alt="20260509_084121" src="https://github.com/user-attachments/assets/3c8c58db-b286-4139-8d4a-ae2ed5ee9302" />
 　　 　　　　　  　　 　　　　　   　　 　　　　　   　　 　　　　　   　　 　　　　　   　　 　　　　　    　　 　　　　　   　　 　　　　　 
-                                                                                        
-<div < align="center">   　　 　　　　　 　　 　　　　　 
+                                                                                
+<div < align="center"><a href="https://hits.sh/github.com/BugShott/"><img alt="Hits" src="https://hits.sh/github.com/BugShott.svg?style=plastic&label=Parkour%20civi&extraCount=66&color=9f3e30&labelColor=111010&logo=Github"/></a>
 <br>
 <br>
   <table>
